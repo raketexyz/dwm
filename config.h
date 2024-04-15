@@ -3,6 +3,7 @@
 /* Constants */
 #define TERMINAL "kitty"
 #define TERMCLASS "kitty"
+#define BROWSER "firefox"
 
 /* appearance */
 static unsigned int borderpx  = 0;        /* border pixel of windows */
